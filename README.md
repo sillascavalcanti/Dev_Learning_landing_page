@@ -1,10 +1,10 @@
-# Dev Learning Landing Page
+# Dev Learning Page
 
 ## Português
 
 ### Descrição
 
-O projeto **Dev Learning Landing Page** é uma página inicial desenvolvida para promover e facilitar o acesso a conteúdos educacionais relacionados ao desenvolvimento de software. A página oferece uma interface amigável e intuitiva para os usuários, permitindo que eles encontrem recursos e informações úteis para aprimorar suas habilidades de programação.
+O projeto **Dev Learning Page** é uma página inicial desenvolvida para promover e facilitar o acesso a conteúdos educacionais relacionados ao desenvolvimento de software. A página oferece uma interface amigável e intuitiva para os usuários, permitindo que eles encontrem recursos e informações úteis para aprimorar suas habilidades de programação.
 
 ### Funcionalidades
 
@@ -42,7 +42,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 ## English
 ### Description
-The Dev Learning Landing Page project is a homepage designed to promote and facilitate access to educational content related to software development. The page offers a user-friendly and intuitive interface, allowing users to find resources and useful information to improve their programming skills.
+The Dev Learning Page project is a homepage designed to promote and facilitate access to educational content related to software development. The page offers a user-friendly and intuitive interface, allowing users to find resources and useful information to improve their programming skills.
 
 ### Features
 - **Responsive Design:** Adaptable to different devices and screen sizes.
